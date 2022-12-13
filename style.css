@@ -1,0 +1,19 @@
+.spring {
+    height: 200px;
+    background-image: url(/Users/hw22a054/Desktop/GoogleDrive/my_program/sample/WEBCAMP課題/HTML_CSS_kadai6/img/box1.jpg);
+}
+
+.summer {
+    height: 200px;
+    background-image: url(/Users/hw22a054/Desktop/GoogleDrive/my_program/sample/WEBCAMP課題/HTML_CSS_kadai6/img/box2.jpg);
+}
+
+.autumn {
+    height: 200px;
+    background-image: url(/Users/hw22a054/Desktop/GoogleDrive/my_program/sample/WEBCAMP課題/HTML_CSS_kadai6/img/box3.jpg);
+}
+
+.winter {
+    height: 200px;
+    background-image: url(/Users/hw22a054/Desktop/GoogleDrive/my_program/sample/WEBCAMP課題/HTML_CSS_kadai6/img/box4.jpg);
+}
